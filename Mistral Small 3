@@ -15,9 +15,14 @@ Sí, es correcto. La montaña más alta del mundo es el Monte Everest, también 
 El Everest ha sido una meta importante para los montañeros desde que fue identificado como la montaña más alta del mundo en 1856. La primera ascensión exitosa al Everest fue realizada por Sir Edmund Hillary y Tenzing Norgay en 1953.
 
 Mistral Small 3
-Mistral Small 3	Open	123	128.000	$2.00	$6.00	-	84.0%	-	-	92.0%
+Mistral Small 3	Open	24	32.000	$0.07	$0.14	45.3%	-	66.3%
 
-El modelo Mistral Small 3 está disponible en Azure a través de la oferta de Modelos como Servicio (MaaS). El costo de uso se basa en la cantidad de tokens procesados, tanto de entrada como de salida. Los precios aproximados son:
+El modelo Mistral Small 2 está disponible en Azure a través de la oferta de Modelos como Servicio (MaaS). El costo de uso se basa en la cantidad de tokens procesados, tanto de entrada como de salida. Los precios aproximados son:
 
 Tokens de entrada: $3.00 por cada millón de tokens.
 Tokens de salida: $9.00 por cada millón de tokens.
+
+El modelo Mistral Small es gratuito.
+
+$0.00/pago único
+Más:paygo-inference-output-tokens: $0.003 per 1,000 tokens ------   paygo-inference-input-tokens: $0.001 per 1,000 tokens
